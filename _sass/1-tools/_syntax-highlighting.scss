@@ -5,9 +5,9 @@
 .highlight {
   background: $blue-black;
 
-  .highlighter-rouge & {
+/*  .highlighter-rouge & {
     background: #eef;
-  }
+  }*/
 
   .c     { color: #998; font-style: italic } // Comment
   .err   { color: #a61717; background-color: #e3d2d2 } // Error
@@ -44,7 +44,7 @@
   .ne    { color: #900; font-weight: bold } // Name.Exception
   .nf    { color: #900; font-weight: bold } // Name.Function
   .nn    { color: #555 } // Name.Namespace
-  .nt    { color: #000080 } // Name.Tag
+  .nt    { color: #0086b3 } // Name.Tag
   .nv    { color: #008080 } // Name.Variable
   .ow    { font-weight: bold } // Operator.Word
   .w     { color: #bbb } // Text.Whitespace
