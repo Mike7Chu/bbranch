@@ -23,6 +23,12 @@ tags:   [nas, raspberrypi, omv]
 ```bash
 wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
 ```
-------------------------
+------------------------  
+
 ## 마치며  
-만약 제 로컬 PC에 이전 설치대로 omv4 라즈베리파이용 이미지가 있다면 업로드해서 추가 가이드 드리도록 하겠습니다.  
+만약 제 로컬 PC에 이전 설치대로 omv4 라즈베리파이용 이미지가 있다면 업로드해서 추가 가이드 드리도록 하겠습니다.    
+
+![](../img/nas1.png)  
+
+### 추가 omv4 라즈베리파이용 이미지  
+[다은로드 링크](http://mike7chu.hopto.org:8000/f/b60af46f7d3e4c01b637/?dl=1)
