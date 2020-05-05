@@ -17,7 +17,7 @@ gem install jekyll bundler # 2. Install a full Ruby development environment.
 jekyll new myblog # 3. Create a new Jekyll site at ./myblog.
 cd myblog # 4. Change into your new directory
 bundle exec jekyll serve # 5. Build the site and make it available on a local server.
-```   
+```
 <br>
 그러면 Ruby 환경을 설치하라고 나와있으니 우선 Ruby환경부터 구성하도록 하겠슨니다.
 
