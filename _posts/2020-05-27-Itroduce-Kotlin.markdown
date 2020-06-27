@@ -14,7 +14,7 @@ tags:   [Kotlin, sublime]
 ------------------------  
 
 ## Kotlin이란  
-*코틀린(Kotlin)은 JVM에서 동작하는 프로그래밍 언어이다. 2011년 7월, 젯브레인사가 공개하였다.**[*출처 wiki*](https://ko.wikipedia.org/wiki/%EC%BD%94%ED%8B%80%EB%A6%B0_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4))  
+*코틀린(Kotlin)은 JVM에서 동작하는 프로그래밍 언어이다. 2011년 7월, 젯브레인사가 공개하였다.* [*출처 wiki*](https://ko.wikipedia.org/wiki/%EC%BD%94%ED%8B%80%EB%A6%B0_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4))  
 <br>
 코틀린은 jetbrains에서 개발한 JVM에서 동작하는 언어입니다. jetbrains 사는 다양한 언어를 지원하는 IntelliJ와 크로스플랫폼까지 지원하는 CLion을 구현한 거대한 개발사 입니다. 이러한 회사에서 개발한 언어는 지원도 당연히 보장될테고, 현재 안드로이드에서도 공식언어로 채택했을테니 안넘어갈 이유가 없겠죠? 한번 코틀린을 쓰면 무엇이 좋은지 살펴보도록 하겠습니다.  
 

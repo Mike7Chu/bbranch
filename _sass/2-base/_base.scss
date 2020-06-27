@@ -1,9 +1,11 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
 // Body
 $base-font-size: 16px;
 $base-font-style: normal;
 $base-font-variant: normal;
 $base-font-weight: normal;
-$base-font-family: 'Nunito', sans-serif;
+$base-font-family: ‘Noto Sans KR’ ;
 $base-line-height: 28px;
 
 *, *::after, *::before {
@@ -101,7 +103,7 @@ pre {
   overflow: auto;
   padding: 15px;
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: 12px;
   white-space: pre-wrap;
   word-wrap: break-word;
   word-break: break-all;
