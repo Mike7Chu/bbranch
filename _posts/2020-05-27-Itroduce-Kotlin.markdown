@@ -7,9 +7,9 @@ tags:   [Kotlin, sublime]
 ---
 ## Overview  
 안녕하세요. 코틀린 공부를 시작하게 되면서, 코틀린을 끄적이려고 합니다. 오늘부터 차근차근 변수부터 안드로이드 구현까지 적도록 하겠습니다.  
-[1. Kotlin이란](#Kotlin이란)  
-[2. Kotlin의 이점](#Kotlin의-이점)  
-[3. Kotlin 설치](#Kotlin-설치)  
+[1. Kotlin이란](#kotlin이란)  
+[2. Kotlin의 이점](#kotlin의-이점)  
+[3. Kotlin 설치](#kotlin-설치)  
 
 ------------------------  
 
@@ -25,7 +25,7 @@ Kotlin을 쓸 경우 공식홈페이지에서는 다음을 특징으로 말하�
 <br>
 Concise : 간결함 입니다. java를 쓸 때보다 간결한 표현이 가능합니다. 홈페이지의 예시를 보면 data class에서는 기본적인 메소드를 제공하기 때문에, 특정 type의 data가 필요할 때 한줄로 할 수 있습니다. 또한 람다식을 이용하여 리스트의 멤버를 필터링 할수 있고, 싱글톤 패턴을 object 타입으로 쉽게 만들 수 있습니다.
 <br>
-```java
+```kotlin
 /*
  Create a POJO with getters, setters, 'equals()', 'hashCode()', 'toString()' and 'copy()' in a single line:
 */
@@ -44,7 +44,7 @@ object ThisIsASingleton {
 ```
 <br>
 Safe : Null Pointer 같은 에러를 피할 수 있다고 합니다. compile 단계에서 null pointer 에러를 찾으면서 더 안정적인 프로그램을 만들 수 있습니다. 그리고 타입 체크를 통해서 객체 type에 대해서 또한 안정적으로 구현할 수 있습니다.
-```java
+```kotlin
 /*
  Get rid of those pesky NullPointerExceptions, you know, The Billion Dollar Mistake
 */
