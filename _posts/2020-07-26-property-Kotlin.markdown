@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "코틀린(Kotlin) 프로퍼티 -6-"
+title:  "코틀린(Kotlin) 프로퍼티(1) -6-"
 date:   2020-07-26 23:30:22 +0900
 image:  Kotlin-logo.png
 tags:   [Kotlin]
