@@ -28,6 +28,8 @@ mount -t drvfs '\\192.168.219.102/share' ~/samba
 
 ```bash
 apt-get install smbclient cifs-utils
-```
+mount -t cifs -o username=<UserName>,password=<Password> //Address <TargetPasth>
+```  
+>![MountResult](../img/mount_result.png)
 
 감사합니다.
